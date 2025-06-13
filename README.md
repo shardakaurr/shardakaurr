@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sharda Kaur
 
-🎓 MCA Student @ Chitkara University | 🟣 Microsoft Learn Student Ambassador  
+🟣 Microsoft Gold Learn Student Ambassador (MLSA) 🎓 MCA Student @ Chitkara University 
 🧠 Tech Blogger | 🎤 Community Speaker | 🤝 Open Source Advocate  
 
 I'm a passionate technology enthusiast who loves simplifying complex concepts, building communities, and empowering others through writing, workshops, and public speaking.
