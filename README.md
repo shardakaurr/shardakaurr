@@ -1,26 +1,47 @@
 # 👋 Hello, I'm Sharda Kaur
 
-🚀 Tech Enthusiast | 💬 Community Builder | ✍️ Blogger @ [dev.to/sharda_kaur](https://dev.to/sharda_kaur)
+🎓 MCA Student @ Chitkara University | 🟣 Microsoft Learn Student Ambassador  
+🧠 Tech Blogger | 🎤 Community Speaker | 🤝 Open Source Advocate  
 
-I'm a passionate student in Computer Applications with a keen interest in Generative AI, cloud development, and community growth. As a Microsoft Learn Student Ambassador, I've organized events, published blogs, and mentored peers on emerging technologies.
-
----
-
-### 🌟 What I Do
-
-- 🧠 Learning & exploring Azure, AI, and cloud-native development
-- 📚 Writing beginner-friendly blogs to simplify tech [Read My Blogs](https://dev.to/sharda_kaur)
-- 🎤 Public speaking & workshop organization to empower students
-- 🤝 Building inclusive communities and open-source collaborations
+I'm a passionate technology enthusiast who loves simplifying complex concepts, building communities, and empowering others through writing, workshops, and public speaking.
 
 ---
 
-### 📌 Recent Highlights
+### 🧭 Who I Am
 
-- 📝 Published multiple blogs on Microsoft Tech Community  
-- 🏆 1st place at **Technovanza 2024** — App Pitch & Tech Quiz  
-- 🎓 MCA @ Chitkara University  
-- 🧭 Organizer of **SkillVerse** and **Microsoft Copilot sessions**
+- 💻 Final-year MCA student from Chitkara University
+- 🌐 Microsoft Learn Student Ambassador (Joined Oct 2023)
+- 📝 Published author on:
+  - [Microsoft Tech Community](https://techcommunity.microsoft.com/users/sharda_kaur/2204790)
+  - [Dev.to](https://dev.to/sharda_kaur)
+- 🗣️ Co-host of multiple Microsoft Reactor Sessions
+- 🏆 1st Place Winner — **Technovanza 2024** (App Pitch, Tech Quiz, Code & Test Relay)
+- 🧩 Former Leader of CSI Student Chapter @ Chitkara
+- 📚 Organizer of **SkillVerse Public Speaking course** and Copilot sessions
+- 🧪 Hands-on with Generative AI, Azure AI Studio, Model Evaluation, and Synthetic Data Crafting
+
+---
+
+### ✨ Featured Blogs & Projects
+
+📘 *Evaluating Generative AI Models with Azure ML*  
+📘 *From Local to Global: Co-op Translator for Learning Resources*  
+📘 *Crafting Responsible Synthetic Data for Fine-Tuning*  
+📘 *Power Platform Hands-on: Power Pages with Students*  
+
+🛠 GitHub Projects:
+- 🔁 [Co-op Translator Translation + Validation Workflow](https://github.com/shardakaurr/24-07-22-tech-writing)
+- 📚 Flashcards for AI-102 & Microsoft AI Studio Workshops
+- 🔧 Blog demos on [Azure AI Model Inference SDK](https://techcommunity.microsoft.com/)
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharda-kaur-a77473207/)
+- 🐦 [Twitter / X](https://x.com/sharda__kaur)
+- 📝 [Dev.to](https://dev.to/sharda_kaur)
+- 🧠 [Microsoft Tech Community](https://techcommunity.microsoft.com/users/sharda_kaur/2204790)
 
 ---
 
@@ -30,15 +51,12 @@ I'm a passionate student in Computer Applications with a keen interest in Genera
 
 ---
 
-### 📫 Connect with Me
+### 💬 Quote I Live By
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sharda-kaur-a77473207/)
-- 📝 [Dev.to](https://dev.to/sharda_kaur)
-- 🐦 [X (Twitter)](https://x.com/sharda__kaur)
+> *"Empower others by sharing what you learn. One workshop, one blog, one moment at a time."*
 
 ---
 
-### ✨ Fun Fact
-
-> I believe in *"Sharing knowledge to uplift others."* Let's grow together — one blog, one workshop, one repo at a time!
+🎉 Always happy to collaborate, mentor, or learn something new together!  
+Let's build, share, and grow 💡
 
