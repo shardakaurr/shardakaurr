@@ -14,9 +14,8 @@ I'm a passionate technology enthusiast who loves simplifying complex concepts, b
 - 📝 Published author on:
   - [Microsoft Tech Community](https://techcommunity.microsoft.com/users/sharda_kaur/2204790)
   - [Dev.to](https://dev.to/sharda_kaur)
-- 🗣️ Co-host of multiple Microsoft Reactor Sessions
+- 🗣️ Co-host of Microsoft Reactor Sessions
 - 🏆 1st Place Winner — **Technovanza 2024** (App Pitch, Tech Quiz, Code & Test Relay)
-- 🧩 Former Leader of CSI Student Chapter @ Chitkara
 - 📚 Organizer of **SkillVerse Public Speaking course** and Copilot sessions
 - 🧪 Hands-on with Generative AI, Azure AI Studio, Model Evaluation, and Synthetic Data Crafting
 
